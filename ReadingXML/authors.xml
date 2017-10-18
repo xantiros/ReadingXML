@@ -18,4 +18,10 @@
     <PhoneNo>555555555111</PhoneNo>
     <Country>Italy</Country>
   </Person>
+  <Person>
+    <Name>Jack</Name>
+    <Surname>Jacks</Surname>
+    <PhoneNo>555555555111</PhoneNo>
+    <Country>Poland</Country>
+  </Person>
 </ArrayOfPerson>
